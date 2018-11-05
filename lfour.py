@@ -7,7 +7,7 @@ def factorial(n):
 
 
 
-user_input = input('Enter a number:')
+user_input = int(input('Enter a number:'))
 print('Result:', factorial(user_input))
 
 

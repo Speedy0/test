@@ -1,3 +1,4 @@
+# Recursive
 print('This program calculates factorial.')
 def factorial(n):
 	if n == 0:
